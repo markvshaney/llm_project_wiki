@@ -1,0 +1,1 @@
+Run Ollama in the conda env
